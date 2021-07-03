@@ -1,3 +1,4 @@
 # FastAPI-Stock-Screener
 
-## SQLAlchamey, Postgresql, Docker
+## Main Stack: FastApi,SQLAlchamey, Postgresql, Docker
+## Stock screening lib: yfinance
